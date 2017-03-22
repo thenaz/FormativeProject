@@ -1,5 +1,6 @@
 package grade.model;
 
-public class GradeBot {
+public class GradeBot
+{
 
 }
