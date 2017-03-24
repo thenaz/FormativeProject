@@ -1,5 +1,6 @@
 package grade.controller;
 
-public class GradeRunner {
+public class GradeRunner
+{
 
 }
